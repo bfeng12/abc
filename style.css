@@ -1,10 +1,13 @@
-*{
+* {
 font-family: Georgia;
 }
-h1{
-  background-image:url("https://pbs.twimg.com/profile_images/378800000822867536/3f5a00acf72df93528b6bb7cd0a4fd0c.jpeg");
-  color: Magenta;
-  height: 450px;
+.header {
+  background-image: url("https://pbs.twimg.com/profile_images/378800000822867536/3f5a00acf72df93528b6bb7cd0a4fd0c.jpeg");
+  height: 400px;
+  background-position: center center;
+}
+h1 {
+  color: #943636;
   background-position: center center;
   
   font-size:38px;
